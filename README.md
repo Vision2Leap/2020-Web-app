@@ -2,14 +2,14 @@
 
 #### By _**{Vision}**_
 
-#### _{Brief description of application}_
+#### _This project Is An Ecommerece Application_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _JS_
+* _REACT_
 
 ## Description
 
